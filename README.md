@@ -1,19 +1,9 @@
-# FullStack Projects
+## 🧮 Advanced Calculator
 
-Welcome to my Full Stack Development Projects repository.
+A responsive calculator built using HTML, CSS and JavaScript.
 
-## Projects
+🔗 Live Demo:
+https://vasiragini.github.io/FullStack-Projects/
 
-### 1. Calculator Project
-
-Built using:
-- HTML
-- CSS
-- JavaScript
-
-Features:
-- Basic arithmetic operations
-- Clean UI
-- Working Calculator
-
-Created by: Vasi Ragini
+📂 Source Code:
+https://github.com/VasiRagini/FullStack-Projects/tree/main/Calculator_project
